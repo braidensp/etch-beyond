@@ -10,7 +10,7 @@ body {
     color: #FEFFFF;
 }
 
-.nav {
-    float: left;
-    
+.nav button{
+    background-color: #FAEA4F;
+    color: #E71530;
 }
