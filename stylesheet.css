@@ -1,0 +1,16 @@
+/*
+Colors:
+#FEFFFF (white)
+#FAEA4F (gold)
+#E71530 (red)
+*/
+
+body {
+    background-color: #E71530;
+    color: #FEFFFF;
+}
+
+.nav {
+    float: left;
+    
+}
