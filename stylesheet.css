@@ -10,7 +10,24 @@ body {
     color: #FEFFFF;
 }
 
-.nav button{
+.navbutton {
+    position: relative;
+    display: inline-block;
     background-color: #FAEA4F;
     color: #E71530;
+    padding: 15px;
+    font-size: 20px;
+}
+
+.navbutton a {
+    color: #E71530;
+    text-decoration: none;
+}
+
+.navbutton:hover {
+    background-color: rgb(212, 198, 66);
+}
+
+footer {
+    font-size: 10px;
 }
