@@ -1,1 +1,30 @@
-* {}
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.topNav a {
+    display: block;
+    background-color: gray;
+    color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.topNav a:hover {
+    background-color: darkgray;
+    color: white;
+}
+
+.topNav a:visited,
+a:active,
+a:link {
+    background-color: gray;
+    color: white;
+}
+
+.container {}
+
+.item {}
